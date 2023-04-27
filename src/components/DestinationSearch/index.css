@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.greet2 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.greet {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+.greet55 {
+  display: flex;
+  padding-bottom: 25px;
+}
+.image258 {
+  height: 25px;
+  margin-left: 10px;
+}
